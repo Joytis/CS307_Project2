@@ -39,6 +39,8 @@ bool simulation::setup(std::string filepath) {
 	// // Setup the parents...
 	_parent1 = org_factory->get_parent(); // org data lifetime is same as parent, so it's cool. 
 	_parent2 = org_factory->get_parent(); // org data lifetime is same as parent, so it's cool. 
+
+	return true;
 }
 
 void simulation::run(size_t trials) {
@@ -50,13 +52,14 @@ void simulation::run(size_t trials) {
 	_children.clear();
 	// _organism_counts.clear();
 
-	for(int i = 0; i < trials; i++) 
+	for(size_t i = 0; i < trials; i++) 
 		_children.push_back(organism_factory::breed(_parent1, _parent2));
 }
 
 
 void simulation::print_master_info(std::ostream& os) {
 	gene_factory::print_metadata(os);
+	os << std::endl;
 }
 void simulation::print_parent_info(std::ostream& os) {
 	static std::string parent_title_1("Sim parent 1");

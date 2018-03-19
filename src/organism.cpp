@@ -35,7 +35,7 @@ void organism::format_print(std::ostream& os, std::string& title) {
 	   << "\tGenes: " << std::endl;
 
    // Print all chromosomes
-	for(int i = 0; i < _chromosomes.size(); i++) {
+	for(size_t i = 0; i < _chromosomes.size(); i++) {
 		std::string title("Chromosome ");
 		title += std::to_string(i);
 

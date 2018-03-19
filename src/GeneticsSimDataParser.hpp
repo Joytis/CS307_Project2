@@ -21,7 +21,7 @@ class GeneticsSimDataParser
 		int			m_iNextGeneNumber;		// Next master gene number
 		int			m_iNextChNumP1;			// Next chromosome number for parent 1
 		int			m_iNextChNumP2;			// Next chromosome number for parent 2
-		char        m_sFileName[64];		// Data file name
+		char        m_sFileName[256];		// Data file name
 		char		m_sGenus[32];			// Genus name of this test organism
 		char		m_sSpecies[32];			// Species name of this test organism
 		char		m_sSciName[64];			// Full scientific name of the test organism

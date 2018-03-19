@@ -31,7 +31,7 @@ organism organism_factory::breed(organism& o1, organism& o2) {
 	auto& chromes2 = o2._chromosomes;
 
 	vector<chromosome> chromes;
-	for(int i = 0; i < chromes1.size(); i++) {
+	for(size_t i = 0; i < chromes1.size(); i++) {
 		chromes.push_back(chromosome_factory::breed(chromes1[i], chromes2[i]));
 	}
 
