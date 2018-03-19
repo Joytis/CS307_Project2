@@ -1,0 +1,3150 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_rece",
+				"_recessive_char"
+			],
+			[
+				"_dom",
+				"_dominant_char"
+			],
+			[
+				"print",
+				"print_metadata\t(gene_factory.hpp)"
+			],
+			[
+				"organi",
+				"organism_metadata"
+			],
+			[
+				"chromo",
+				"chromosome"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"new",
+				"new_first"
+			],
+			[
+				"gene",
+				"gene1_pair"
+			],
+			[
+				"gene2",
+				"gene2_pair"
+			],
+			[
+				"gene1",
+				"gene1_pair"
+			],
+			[
+				"make",
+				"make_pair"
+			],
+			[
+				"organism",
+				"organism_factory"
+			],
+			[
+				"homo",
+				"homozygous_dominant"
+			],
+			[
+				"heter",
+				"heterozygous_dominant"
+			],
+			[
+				"trait",
+				"trait1"
+			],
+			[
+				"chromosom",
+				"chromosome_factory\t(chromosome_factory.cpp)"
+			],
+			[
+				"stran",
+				"strand2_chars"
+			],
+			[
+				"read",
+				"read_from_file"
+			],
+			[
+				"cross",
+				"crossover_chance\t(gene_metadata.hpp)"
+			],
+			[
+				"parser-getGene",
+				"parser->getGeneData\t(simulation.cpp)"
+			],
+			[
+				"strand1",
+				"strand1_chars"
+			],
+			[
+				"strand2",
+				"strand2_chars"
+			],
+			[
+				"strand",
+				"strand1_chars"
+			],
+			[
+				"org",
+				"org_fact"
+			],
+			[
+				"chromosomeF",
+				"chromosome_factory\t(simulation.cpp)"
+			],
+			[
+				"buffer",
+				"buffer0"
+			],
+			[
+				"parent",
+				"parent_count"
+			],
+			[
+				"Genetic",
+				"GeneticsSimDataParser"
+			],
+			[
+				"chromosome",
+				"chromosome_factory\t(chromosome_factory.hpp)"
+			],
+			[
+				"stat",
+				"stateSystem"
+			],
+			[
+				"aerai",
+				"aerialJumps"
+			],
+			[
+				"finished",
+				"finishedHitboxes"
+			],
+			[
+				"Atta",
+				"AttackReceiverHandler"
+			],
+			[
+				"point",
+				"pointInsideCollider"
+			],
+			[
+				"average",
+				"averageNormal"
+			],
+			[
+				"aver",
+				"averagePos"
+			],
+			[
+				"Conta",
+				"ContactPoint2D"
+			],
+			[
+				"their",
+				"their_c2d"
+			],
+			[
+				"Start",
+				"StartCoroutine\t(ArbitraryTimedScreenEffect.cs)"
+			],
+			[
+				"Seri",
+				"Serializable"
+			],
+			[
+				"screen",
+				"screenEffect"
+			],
+			[
+				"Do",
+				"DoScreenEffect\t(ArbitraryTimedScreenEffect.cs)"
+			],
+			[
+				"shader",
+				"shaderArg"
+			],
+			[
+				"IEnum",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"Set",
+				"SetControllerProperties(string key)\tvoid"
+			],
+			[
+				"ForcedMove",
+				"ForcedMovementPrimer\t(PlayerController.cs)"
+			],
+			[
+				"forced",
+				"_forcedMovementPrimer\tForcedMovementPrimer"
+			],
+			[
+				"Force",
+				"_forcedMovementPrimer\tForcedMovementPrimer"
+			],
+			[
+				"local",
+				"localPosition\tVector3 { get; set; }"
+			],
+			[
+				"ortho",
+				"orthographicSize\tfloat { get; set; }"
+			],
+			[
+				"bottom",
+				"bottomLeftPos"
+			],
+			[
+				"offset",
+				"offsetX"
+			],
+			[
+				"Pixel",
+				"PixelPerfectCamera\t(PixelateCamera.cs)"
+			],
+			[
+				"subpi",
+				"subpixelOffset\tVector4"
+			],
+			[
+				"subpixl",
+				"subpixelOffsetX"
+			],
+			[
+				"_Subpix",
+				"_SubpixelOffset"
+			],
+			[
+				"uv_cell",
+				"uv_cell_size"
+			],
+			[
+				"target",
+				"target_cell"
+			],
+			[
+				"_Sub",
+				"_SubpixelOffsetY"
+			],
+			[
+				"top",
+				"top_bound"
+			],
+			[
+				"_Subpixel",
+				"_SubpixelOffsetY"
+			],
+			[
+				"right",
+				"right_bound"
+			],
+			[
+				"_GriD",
+				"_GridHeight"
+			],
+			[
+				"subpixel",
+				"subpixel_offset"
+			],
+			[
+				"subpie",
+				"subpixel_grid_size"
+			],
+			[
+				"expecte",
+				"expectedPos"
+			],
+			[
+				"or",
+				"orthographicSize\tfloat { get; set; }"
+			],
+			[
+				"numSub",
+				"numSubpixelsX"
+			],
+			[
+				"subpix",
+				"subpixel_offset"
+			],
+			[
+				"subpixelOff",
+				"subpixel_offset"
+			],
+			[
+				"_Subpi",
+				"_SubpixelOffsetX"
+			],
+			[
+				"numSubpix",
+				"numSubpixelsX"
+			],
+			[
+				"numSubi",
+				"numSubpixelsX"
+			],
+			[
+				"uv_",
+				"uv_subpixel_size"
+			],
+			[
+				"pre",
+				"predicted_uv"
+			],
+			[
+				"uv",
+				"uv.x"
+			],
+			[
+				"tex2",
+				"texture2D"
+			],
+			[
+				"grid",
+				"grid_size"
+			],
+			[
+				"_Grid",
+				"_GridHeight"
+			],
+			[
+				"unitsPer",
+				"unitsPerSubpixel"
+			],
+			[
+				"pixels",
+				"pixelsPerUnit"
+			],
+			[
+				"native",
+				"nativeSize"
+			],
+			[
+				"nat",
+				"nativeSize"
+			],
+			[
+				"PixelPer",
+				"PixelPerfectCamera"
+			],
+			[
+				"Appl",
+				"ApplyCameraShake"
+			],
+			[
+				"color",
+				"colorFadeTime"
+			],
+			[
+				"orig",
+				"origColorProportion"
+			],
+			[
+				"tint",
+				"tintColorProportion"
+			],
+			[
+				"time",
+				"timeToFlicker"
+			],
+			[
+				"some",
+				"some_var"
+			],
+			[
+				"ATT",
+				"ATTRIBUTES_3D\t(RuntimeManager.cs)"
+			],
+			[
+				"SerDic",
+				"SortedDictionary<\tSortedDictionary<"
+			],
+			[
+				"Rigid",
+				"Rigidbody2D"
+			],
+			[
+				"Controll",
+				"Controller2D\t(RuntimeManager.cs)"
+			],
+			[
+				"Controller",
+				"Controller2D"
+			],
+			[
+				"ridi",
+				"rigidBody2D\tRigidbody2D"
+			],
+			[
+				"Rigi",
+				"Rigidbody2D\tRigidbody2D"
+			],
+			[
+				"incre",
+				"incrementPerHIt"
+			],
+			[
+				"intera",
+				"internalCounter"
+			],
+			[
+				"internal",
+				"internalCounter"
+			],
+			[
+				"GetCom",
+				"GetComponent"
+			],
+			[
+				"hitStun",
+				"hitStunFrames\t(Attack.cs)"
+			],
+			[
+				"Float",
+				"FloatField"
+			],
+			[
+				"Recei",
+				"ReceiveHandler"
+			],
+			[
+				"FMODSimpleEventD",
+				"FMODSimpleEventDict\t(FMODSimpleEventDict.cs)"
+			],
+			[
+				"Sc",
+				"ScriptableObject\tScriptableObject"
+			],
+			[
+				"FMOD",
+				"FMODUnity\t(FMODEmitterHandler.cs)"
+			],
+			[
+				"Seria",
+				"SerializedProperty\t(StudioBankLoaderEditor.cs)"
+			],
+			[
+				"FMODEvent",
+				"FMODEventContainer"
+			],
+			[
+				"Serialize",
+				"SerializeField\tSerializeField"
+			],
+			[
+				"Even",
+				"EventDescription\tEventDescription { get; }"
+			],
+			[
+				"Seriali",
+				"SerializeField"
+			],
+			[
+				"atta",
+				"attackNum"
+			],
+			[
+				"sound",
+				"soundEffects"
+			],
+			[
+				"SoundE",
+				"SoundEffectDict\t(SoundEffect.cs)"
+			],
+			[
+				"clamped",
+				"clampedWorld"
+			],
+			[
+				"View",
+				"ViewportToWorldPoint(Vector3 position)\tVector3"
+			],
+			[
+				"Remove",
+				"RemovePointOfInterest\t(PlayerCameraFollow2D.cs)"
+			],
+			[
+				"expec",
+				"expectedTime"
+			],
+			[
+				"expce",
+				"expectedOffset"
+			],
+			[
+				"stats",
+				"statsProp"
+			],
+			[
+				"attackS",
+				"attackSpeed"
+			],
+			[
+				"Unadjus",
+				"UnadjustedRange\t(CombatStatsDummy.cs)"
+			],
+			[
+				"current",
+				"currentAttack"
+			],
+			[
+				"Decrease",
+				"DecreaseDamage"
+			],
+			[
+				"attackSpeed",
+				"attackSpeedStart"
+			],
+			[
+				"Unad",
+				"UnadjustedDamage\t(CombatStats.cs)"
+			],
+			[
+				"Assert",
+				"Assert.AreNotEqual\t(TestDriverAttacksCycleSuccessfully.cs)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/gene_metadata.cpp",
+			"settings":
+			{
+				"buffer_size": 3409,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism_metadata.cpp",
+			"settings":
+			{
+				"buffer_size": 1546,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism_metadata.hpp",
+			"settings":
+			{
+				"buffer_size": 1318,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism_factory.cpp",
+			"settings":
+			{
+				"buffer_size": 2853,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism.cpp",
+			"settings":
+			{
+				"buffer_size": 4195,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/chromosome.cpp",
+			"settings":
+			{
+				"buffer_size": 511,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/chromosome.hpp",
+			"settings":
+			{
+				"buffer_size": 513,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism.hpp",
+			"settings":
+			{
+				"buffer_size": 2138,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism_factory.hpp",
+			"settings":
+			{
+				"buffer_size": 503,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/gene.hpp",
+			"settings":
+			{
+				"buffer_size": 1537,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/chromosome_factory.cpp",
+			"settings":
+			{
+				"buffer_size": 2223,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/gene_factory.cpp",
+			"settings":
+			{
+				"buffer_size": 4163,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/gene_metadata.hpp",
+			"settings":
+			{
+				"buffer_size": 1408,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/simulation.cpp",
+			"settings":
+			{
+				"buffer_size": 4222,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/genotype.hpp",
+			"settings":
+			{
+				"buffer_size": 372,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/gene_factory.hpp",
+			"settings":
+			{
+				"buffer_size": 614,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/data.xml",
+			"settings":
+			{
+				"buffer_size": 2345,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/simulation.hpp",
+			"settings":
+			{
+				"buffer_size": 903,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/gene.cpp",
+			"settings":
+			{
+				"buffer_size": 3828,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "project2_307 (Windows)",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"project2_307 (Windows)",
+					""
+				],
+				[
+					"project2_307 (Windows)",
+					"rebuild_cache"
+				],
+				[
+					"project2_307 (Windows)",
+					"src/rebuild_cache"
+				],
+				[
+					"project2_307 (Windows)",
+					"project2.exe"
+				],
+				[
+					"project2_307 (Windows)",
+					"src/all"
+				],
+				[
+					"project2_307 (Windows)",
+					"all"
+				],
+				[
+					"project2_307 (Windows)",
+					"clean"
+				]
+			],
+			[
+				"project2_307 (Windows)",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"Cmake",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"Cmaek",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"Write",
+				"CMakeBuilder: Write Build Targets to Sublime Project File"
+			],
+			[
+				"Configure",
+				"CMakeBuilder: Configure"
+			],
+			[
+				"CMake",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"next code",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"OmniSharp: next",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"show",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"OmniSharp",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"hide",
+				"OmniSharpSublime: Hide Info Panel"
+			],
+			[
+				"show ",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"show info",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"Omni",
+				"OmniSharpSublime: Hide Info Panel"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"Omnisharp",
+				"OmniSharpSublime: Rename"
+			],
+			[
+				"Shaderlab",
+				"Set Syntax: Unity ShaderLab"
+			],
+			[
+				"Unity",
+				"Set Syntax: UnityShader"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Rename",
+				"File: Rename"
+			],
+			[
+				"C",
+				"Set Syntax: C"
+			],
+			[
+				"hlsl",
+				"Set Syntax: High Level SL"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"Delte",
+				"File: Delete"
+			],
+			[
+				"Delete",
+				"File: Delete"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"deete",
+				"File: Delete"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"SublimeLinter: ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"next  od",
+				"OmniSharpSublime: Next Code Issue"
+			],
+			[
+				"Goto",
+				"OmniSharpSublime: Goto Definition"
+			],
+			[
+				"show error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Fix",
+				"OmniSharpSublime: Fix Code Issue"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Syntax: C",
+				"Set Syntax: C"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Paclage",
+				"Package Control: List Packages"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"shader",
+				"Set Syntax: Unity ShaderLab"
+			],
+			[
+				"Disco",
+				"Discord Rich Presence: Disconnect"
+			],
+			[
+				"Discord",
+				"Discord Rich Presence: Connect to Discord"
+			],
+			[
+				"newnew",
+				"File: New File Relative to Current View"
+			],
+			[
+				"tex",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"rust",
+				"Set Syntax: Rust"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"text pastry from",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"deleete",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 553.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/lib",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/genotype.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/chromosome.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/gene.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/organism.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/gene_factory.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/organism_factory.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/gene_factory.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/gene.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/gene_metadata.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/gene_metadata.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/GeneticsSimDataParser.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/chromosome_factory.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/simulation.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/lib/data.xml",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/project2_307.sublime-project",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/CMakeLists.txt",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/chromosome_factory.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/organism.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/organism_factory.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/GeneticsSimDataParser.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/main.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/chromosome.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/simulation.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/organism_metadata.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/organism_metadata.cpp",
+		"/C/Users/Clark/AppData/Local/Temp/Temp1_Prog2_Spring2018.zip/GeneticsSim2a.xml",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project2/src/CMakeLists.txt",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Player/PlayerController_MoveStates.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Player/PlayerController_StateStructs.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/.gitignore",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Player/PlayerController_DashStates.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Player/PlayerController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Movement/AMPDefault.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Shaders/UVDistortion.shader",
+		"/D/AudioLibrary/SFX/Rocks/_credits.json",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/.gitattributes",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Editor/Editors/CombatControllerEditor.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Tests/Editor/CombatLibrary/TestCombatStatsPackage.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Editor/Windows/ActorAssetCreatorWindow.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/Utilities.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Effects/ParticlesOnReceive.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/Implementations/EnchRemoveEnchantments.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/LWG/Effects/FMODSimpleEffectPlayer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CameraShakeOnHit.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/FlickerOnDamage.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Player/PlayerCombatCameraShake.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enemies/SpearDude/SpearDudeController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enemies/Scrub/ScrubController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/Implementations/EnchBuffOnRoll.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enemies/Burb/BurbController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/Implementations/EnchAoeOnJump.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/EnchInterfaces/IEOnGroudnedHit.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/EnchInterfaces/IEOnTakeDamage.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/EnchInterfaces/IEOnFinalAttackHit.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/EnchInterfaces/IEOnEnemyHit.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/EnchInterfaces/IEOnAerialHit.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enchantments/Enchantments.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/HitInfo.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Enemies/EnemyDeath.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Player/PlayerHealth.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Player/PlayerDeath.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Effects/FMODOnReceiveDecayEmitter.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Effects/FMODSoundOnReceive.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/FMOD/Build/Desktop/Master Bank.strings.bank",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/GivesKnockbackOnReceive.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Movement/ForcedMovementPrimer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/TestSomeParticles/Assets/Scripts/PixelateCamera.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/ReceivesKnockbackOnAttacked.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/ICombatStats.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/HitStun.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/HitboxPosition.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/Hitbox.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/HealthComponent.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/GivesHitStunOnReceive.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Movement/Controller2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/DeathComponent.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/CombatStatsPackage.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/CombatStatsDummy.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/CombatStats.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/CombatController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/AttackStructures.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/AttackReceiver.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/AttackLibrary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/AttackController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/Attack.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/LWG/Utilities/Utilities.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Movement/AMPPlayer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/LWG/Effects/FMODSimpleEventDict.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Plugins/FMOD/EventRefAttribute.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Movement/PhysicalProperties.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/LWG/Utilities/SerDictionary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Movement/PhysicalPropertyLibrary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Effects/Post/ArbitraryTimedScreenEffect.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Player/PlayerController_AttackStates.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/KnockbackAttackerOnReceive.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Effects/Post/PixelateCamera.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/GameController/GameScreenEffects.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/GameConstants.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/GameController/GameController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/LWG/StateMachines/TimerState.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Shaders/Post/PixelateCamera.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Shaders/Effects/ColorFlash.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/LWG/Utilities/SerDictionaryAttribute.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Shaders/Post/PlayerHurt.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/PixelPerfectCamera/Scripts/PixelPerfectCamera.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/mini_clungeons.sublime-project",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Effects/Post/ArbitraryScreenEffect.cs",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/util/config(OmniSharp).json",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/ForcedMovementPrimer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Effects/SimpleScreenShakeHook.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/Controller2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/FacingDirection.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/PlayerCameraFollow2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/RoundPositionToPixel.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/LWG/CameraShake2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/GameController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/CombatLibrary/ReceivesKnockback.cs",
+		"/D/Programming/src/UnityShaders_2017.3.1/CGIncludes/HLSLSupport.cginc",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/LWG/ScreenShake.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Tests/Playmode/AttacksCycleSuccessfully/TestAttacksCycleSuccessfully.cs",
+		"/D/Programming/src/UnityShaders_2017.3.1/CGIncludes/UnityShaderVariables.cginc",
+		"/D/Programming/src/UnityShaders_2017.3.1/CGIncludes/UnityCG.cginc",
+		"/D/Programming/src/UnityShaders_2017.3.1/CGIncludes/UnityInstancing.cginc",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Scripts/Game/SnapCamToGrid.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game_lfs/Assets/Retro Pixel/Scripts/RetroPixel.cs"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_recessive_phenotype",
+			"_dominant_char",
+			"_dominant_phenotype",
+			"tDominant",
+			"organism",
+			"tab",
+			"gene",
+			"g_pair",
+			"gene",
+			"g",
+			"gene",
+			"tabs",
+			"first",
+			"second",
+			"kvp",
+			"g",
+			"kvp",
+			"meta",
+			"organism_factory::get_metadata",
+			"meta",
+			"metadata",
+			"_metadata",
+			"organism_factory",
+			"get_metadata",
+			"organsm_factory",
+			"line_start",
+			"filepath",
+			"filename",
+			"organism",
+			"bool",
+			"parser",
+			"orientation",
+			"ori",
+			"orientation",
+			"genotype",
+			"dominant",
+			"gene2_pair",
+			"new_second",
+			"false",
+			"g",
+			"g1",
+			"dist",
+			"percent_dist",
+			"dist",
+			"gene1_pair",
+			"g1",
+			"<< gene1_pair",
+			"gene1_pair",
+			"gene1",
+			"gene2",
+			"gene1",
+			"o2",
+			"o1",
+			"case",
+			"string",
+			"cool8",
+			"gene",
+			"[i]",
+			"chromes1",
+			"_chromosomes",
+			"chromosome_factory",
+			"o1",
+			"chromes",
+			"chromes2",
+			"chromes1",
+			"chromes",
+			"chromes2",
+			"o1",
+			"cotu",
+			"o2_chromes",
+			"o1_chromes",
+			"can_breed_with",
+			"gene",
+			"_metadata",
+			"chromes",
+			"_genes",
+			"; ",
+			"heterozygous_dominant",
+			"t2",
+			"t1",
+			"== genotype",
+			"genotype",
+			"homozygous_recessive",
+			"dominant",
+			"_create_table",
+			"pair_to_genotype",
+			"chromosome",
+			"genes",
+			"gene",
+			"2",
+			"get_recessive_char",
+			"get_dominant_char",
+			"orientation",
+			"get_genotype",
+			"genotype",
+			"get_genotype",
+			"genotype",
+			"filepath",
+			"gene_pair",
+			"filepath",
+			"fileName",
+			"gen_parse",
+			"_metadata",
+			"()",
+			"}",
+			"get_crossover_chance",
+			"buffer2",
+			"co_chance",
+			"std::string",
+			"tokens",
+			"iss",
+			"string",
+			">(",
+			"iss",
+			"66",
+			"buffer0",
+			"stran1",
+			"pareser",
+			"parser",
+			"strand2",
+			"chromosome",
+			"auto",
+			"chrome_factory",
+			"chromosomes",
+			"getParent",
+			"getInstance",
+			"organism",
+			"iostream"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"get_instance"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 12,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/gene_metadata.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3409,
+								3409
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.175.region_keys":
+							[
+							],
+							"SL.234.region_keys":
+							[
+							],
+							"SL.243.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/organism_metadata.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1213,
+								1213
+							]
+						],
+						"settings":
+						{
+							"SL.56.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/organism_metadata.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								403
+							]
+						],
+						"settings":
+						{
+							"SL.226.region_keys":
+							[
+							],
+							"SL.92.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/organism_factory.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								948,
+								948
+							]
+						],
+						"settings":
+						{
+							"SL.105.region_keys":
+							[
+							],
+							"SL.63.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 112.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/organism.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4075,
+								4075
+							]
+						],
+						"settings":
+						{
+							"SL.220.region_keys":
+							[
+							],
+							"SL.87.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1665.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/chromosome.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"SL.185.region_keys":
+							[
+							],
+							"SL.218.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/chromosome.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.215.region_keys":
+							[
+							],
+							"SL.222.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/organism.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								546
+							]
+						],
+						"settings":
+						{
+							"SL.109.region_keys":
+							[
+							],
+							"SL.84.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/organism_factory.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"SL.205.region_keys":
+							[
+							],
+							"SL.224.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"SL.113.region_keys":
+							[
+							],
+							"SL.139.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/gene.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								864
+							]
+						],
+						"settings":
+						{
+							"SL.117.region_keys":
+							[
+							],
+							"SL.179.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/chromosome_factory.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1135,
+								1135
+							]
+						],
+						"settings":
+						{
+							"SL.121.region_keys":
+							[
+							],
+							"SL.196.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/gene_factory.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3964,
+								3964
+							]
+						],
+						"settings":
+						{
+							"SL.134.region_keys":
+							[
+							],
+							"SL.79.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1488.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src/gene_metadata.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								834,
+								834
+							]
+						],
+						"settings":
+						{
+							"SL.237.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/simulation.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1592,
+								1592
+							]
+						],
+						"settings":
+						{
+							"SL.198.region_keys":
+							[
+							],
+							"SL.207.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "src/genotype.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.178.region_keys":
+							[
+							],
+							"SL.186.region_keys":
+							[
+							],
+							"SL.225.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 16,
+					"file": "src/gene_factory.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								529,
+								529
+							]
+						],
+						"settings":
+						{
+							"SL.73.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 0,
+					"file": "src/gene_metadata.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3146,
+								3146
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.175.region_keys":
+							[
+							],
+							"SL.234.region_keys":
+							[
+							],
+							"SL.243.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1089.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/chromosome.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"SL.185.region_keys":
+							[
+							],
+							"SL.218.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "lib/data.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.138.region_keys":
+							[
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1536.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"SL.113.region_keys":
+							[
+							],
+							"SL.139.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "src/simulation.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								629,
+								629
+							]
+						],
+						"settings":
+						{
+							"SL.202.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/organism_factory.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"SL.205.region_keys":
+							[
+							],
+							"SL.224.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/simulation.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2475,
+								2475
+							]
+						],
+						"settings":
+						{
+							"SL.198.region_keys":
+							[
+							],
+							"SL.207.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 576.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/gene_factory.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"SL.134.region_keys":
+							[
+							],
+							"SL.79.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/gene.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"SL.117.region_keys":
+							[
+							],
+							"SL.179.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/chromosome_factory.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1829,
+								1829
+							]
+						],
+						"settings":
+						{
+							"SL.121.region_keys":
+							[
+							],
+							"SL.196.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 672.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "src/gene.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2542,
+								3539
+							]
+						],
+						"settings":
+						{
+							"SL.180.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/organism.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1102,
+								1102
+							]
+						],
+						"settings":
+						{
+							"SL.109.region_keys":
+							[
+							],
+							"SL.84.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/chromosome.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"SL.215.region_keys":
+							[
+							],
+							"SL.222.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/organism.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3752,
+								3752
+							]
+						],
+						"settings":
+						{
+							"SL.220.region_keys":
+							[
+							],
+							"SL.87.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1636.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/organism_factory.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								761
+							]
+						],
+						"settings":
+						{
+							"SL.105.region_keys":
+							[
+							],
+							"SL.63.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/organism_metadata.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							],
+							[
+								933,
+								933
+							],
+							[
+								971,
+								971
+							],
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"SL.226.region_keys":
+							[
+							],
+							"SL.92.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 276.0
+	},
+	"output.exec":
+	{
+		"height": 289.0
+	},
+	"output.files_to_be_deleted":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "project2_307 (Windows)",
+	"project": "project2_307.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gene",
+				"src\\gene_factory.cpp"
+			],
+			[
+				"gene_fa",
+				"src\\gene_factory.cpp"
+			],
+			[
+				"organism",
+				"src\\organism.cpp"
+			],
+			[
+				"chromo",
+				"src\\chromosome.cpp"
+			],
+			[
+				"oragnism",
+				"src\\organism.cpp"
+			],
+			[
+				"or",
+				"src\\organism.hpp"
+			],
+			[
+				"simul",
+				"src\\simulation.cpp"
+			],
+			[
+				"main",
+				"src\\main.cpp"
+			],
+			[
+				"simulation",
+				"src\\simulation.hpp"
+			],
+			[
+				"gne",
+				"src\\gene.hpp"
+			],
+			[
+				"geno",
+				"src\\genotype.hpp"
+			],
+			[
+				"genotyp",
+				"src\\genotype.hpp"
+			],
+			[
+				"dat",
+				"lib\\data.xml"
+			],
+			[
+				"gen",
+				"src\\gene_factory.hpp"
+			],
+			[
+				"gee",
+				"src\\gene_factory.hpp"
+			],
+			[
+				"organim",
+				"src\\organism_metadata.cpp"
+			],
+			[
+				"Cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"data",
+				"lib\\data.xml"
+			],
+			[
+				"gene_meta",
+				"src\\gene_metadata.cpp"
+			],
+			[
+				"genoty",
+				"src\\genotype.hpp"
+			],
+			[
+				"genot",
+				"src\\genotype.hpp"
+			],
+			[
+				"geneMet",
+				"src\\gene_metadata.cpp"
+			],
+			[
+				"gene_fac",
+				"src\\gene_factory.cpp"
+			],
+			[
+				"sublime",
+				"project2_307.sublime-project"
+			],
+			[
+				"P",
+				"project2_307.sublime-project"
+			],
+			[
+				"chrom",
+				"src\\chromosome_factory.cpp"
+			],
+			[
+				"chromosome",
+				"src\\chromosome_factory.cpp"
+			],
+			[
+				"gene_",
+				"src\\gene_factory.cpp"
+			],
+			[
+				"Genetic",
+				"src\\GeneticsSimDataParser.cpp"
+			],
+			[
+				"G",
+				"src\\GeneticsSimDataParser.hpp"
+			],
+			[
+				"Gene",
+				"src\\GeneticsSimDataParser.hpp"
+			],
+			[
+				"cho",
+				"src\\chromosome.hpp"
+			],
+			[
+				"orga",
+				"src\\organism_factory.cpp"
+			],
+			[
+				"organi",
+				"src\\organism_factory.hpp"
+			],
+			[
+				"chr",
+				"src\\chromosome_factory.cpp"
+			],
+			[
+				"Genet",
+				"src\\GeneticsSimDataParser.hpp"
+			],
+			[
+				"genetic",
+				"src\\GeneticsSimDataParser.hpp"
+			],
+			[
+				"organismFac",
+				"src\\organism_factory.hpp"
+			],
+			[
+				"organsim",
+				"src\\organism_factory.hpp"
+			],
+			[
+				"chromom",
+				"src\\chromosome_factory.hpp"
+			],
+			[
+				"Simulation",
+				"src\\simulation.cpp"
+			],
+			[
+				"genefac",
+				"src\\gene_factory.hpp"
+			],
+			[
+				"organismMeta",
+				"src\\organism_metadata.hpp"
+			],
+			[
+				"simulat",
+				"src\\simulation.cpp"
+			],
+			[
+				"proj",
+				"project2_307.sublime-project"
+			],
+			[
+				"projec",
+				"project2_307.sublime-project"
+			],
+			[
+				"genemeta",
+				"src\\gene_metadata.cpp"
+			],
+			[
+				"CMake",
+				"src\\CMakeLists.txt"
+			],
+			[
+				"Dash",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_DashStates.cs"
+			],
+			[
+				"MoveStates",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_MoveStates.cs"
+			],
+			[
+				"AttackStats",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_AttackStates.cs"
+			],
+			[
+				"AirState",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_AirStates.cs"
+			],
+			[
+				"PlayerCn",
+				"Assets\\Scripts\\Game\\Player\\PlayerController.cs"
+			],
+			[
+				"PlayerCon",
+				"Assets\\Scripts\\Game\\Player\\PlayerController.cs"
+			],
+			[
+				"DashS",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_DashStates.cs"
+			],
+			[
+				"DashState",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_DashStates.cs"
+			],
+			[
+				"PlayrCon",
+				"Assets\\Scripts\\Game\\Player\\PlayerController.cs"
+			],
+			[
+				"PlayerMove",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_MoveStates.cs"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"gitatt",
+				".gitattributes"
+			],
+			[
+				"gitignore",
+				".gitignore"
+			],
+			[
+				"FMODSimple",
+				"Assets\\Scripts\\LWG\\Effects\\FMODSimpleEffectPlayer.cs"
+			],
+			[
+				"SimpleEvent",
+				"Assets\\Scripts\\Game\\Enchantments\\Implementations\\EnchRemoveEnchantments.cs"
+			],
+			[
+				"OnReceive",
+				"Assets\\Scripts\\Game\\Effects\\ParticlesOnReceive.cs"
+			],
+			[
+				"HitInfo",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitInfo.cs"
+			],
+			[
+				"Utilities",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Utilities.cs"
+			],
+			[
+				"Utili",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Utilities.cs"
+			],
+			[
+				"Receives",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ReceivesKnockbackOnAttacked.cs"
+			],
+			[
+				"ICombat",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ICombatStats.cs"
+			],
+			[
+				"HitSun",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitStun.cs"
+			],
+			[
+				"HitIno",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitInfo.cs"
+			],
+			[
+				"HitboxP",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitboxPosition.cs"
+			],
+			[
+				"Hitbox",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Hitbox.cs"
+			],
+			[
+				"HealthCom",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HealthComponent.cs"
+			],
+			[
+				"GivesKnock",
+				"Assets\\Scripts\\Game\\CombatLibrary\\GivesKnockbackOnReceive.cs"
+			],
+			[
+				"GiveHitStunOn",
+				"Assets\\Scripts\\Game\\CombatLibrary\\GivesHitStunOnReceive.cs"
+			],
+			[
+				"DeathCom",
+				"Assets\\Scripts\\Game\\CombatLibrary\\DeathComponent.cs"
+			],
+			[
+				"CombatStats",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsPackage.cs"
+			],
+			[
+				"CombatCon",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatController.cs"
+			],
+			[
+				"AttackStru",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackStructures.cs"
+			],
+			[
+				"AttackReve",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackReceiver.cs"
+			],
+			[
+				"AttackLibrar",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackLibrary.cs"
+			],
+			[
+				"AttackCon",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackController.cs"
+			],
+			[
+				"Attack",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Attack.cs"
+			],
+			[
+				"FMODSoundOn",
+				"Assets\\Scripts\\Game\\Effects\\FMODSoundOnReceive.cs"
+			],
+			[
+				"Particles",
+				"Assets\\Scripts\\Game\\Effects\\ParticlesOnReceive.cs"
+			],
+			[
+				"EventRef",
+				"Assets\\Plugins\\FMOD\\EventRefAttribute.cs"
+			],
+			[
+				"Attackreve",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackReceiver.cs"
+			],
+			[
+				"FMODSound",
+				"Assets\\Scripts\\Game\\Effects\\FMODSoundOnReceive.cs"
+			],
+			[
+				"Simple",
+				"Assets\\Scripts\\LWG\\Effects\\FMODSimpleEffectPlayer.cs"
+			],
+			[
+				"Onreceive",
+				"Assets\\Scripts\\Game\\CombatLibrary\\GivesHitStunOnReceive.cs"
+			],
+			[
+				"Util",
+				"Assets\\Scripts\\LWG\\Utilities\\Utilities.cs"
+			],
+			[
+				"Parti",
+				"Assets\\Scripts\\Game\\Effects\\ParticlesOnReceive.cs"
+			],
+			[
+				"ParticlesOn",
+				"Assets\\Scripts\\Game\\Effects\\ParticlesOnReceive.cs"
+			],
+			[
+				"HitStun",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitStun.cs"
+			],
+			[
+				"Controller",
+				"Assets\\Scripts\\Game\\Movement\\Controller2D.cs"
+			],
+			[
+				"hitStun",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitStun.cs"
+			],
+			[
+				"SerDic",
+				"Assets\\Scripts\\LWG\\Utilities\\SerDictionary.cs"
+			],
+			[
+				"GiveKnock",
+				"Assets\\Scripts\\Game\\CombatLibrary\\GivesKnockbackOnReceive.cs"
+			],
+			[
+				"ReceiveKno",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ReceivesKnockbackOnAttacked.cs"
+			],
+			[
+				"Default",
+				"Assets\\Scripts\\Game\\Movement\\AMPDefault.cs"
+			],
+			[
+				"AMPPlay",
+				"Assets\\Scripts\\Game\\Movement\\AMPPlayer.cs"
+			],
+			[
+				"AMPDe",
+				"Assets\\Scripts\\Game\\Movement\\AMPDefault.cs"
+			],
+			[
+				"ReceivesKnock",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ReceivesKnockbackOnAttacked.cs"
+			],
+			[
+				"hitInfo",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitInfo.cs"
+			],
+			[
+				"Damage",
+				"Assets\\Scripts\\Game\\FlickerOnDamage.cs"
+			],
+			[
+				"Arbitrary",
+				"Assets\\Scripts\\Game\\Effects\\Post\\ArbitraryTimedScreenEffect.cs"
+			],
+			[
+				"Player",
+				"Assets\\Scripts\\Game\\Player\\PlayerController.cs"
+			],
+			[
+				"Combatcon",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatController.cs"
+			],
+			[
+				"TimeS",
+				"Assets\\Scripts\\LWG\\StateMachines\\TimerState.cs"
+			],
+			[
+				"CombatStaeP",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsPackage.cs"
+			],
+			[
+				"attackStates",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_AttackStates.cs"
+			],
+			[
+				"playerCon",
+				"Assets\\Scripts\\Game\\Player\\PlayerController.cs"
+			],
+			[
+				"AttackState",
+				"Assets\\Scripts\\Game\\Player\\PlayerController_AttackStates.cs"
+			],
+			[
+				"GameSc",
+				"Assets\\Scripts\\Game\\GameController\\GameScreenEffects.cs"
+			],
+			[
+				"GaemCon",
+				"Assets\\Scripts\\Game\\GameController\\GameController.cs"
+			],
+			[
+				"GameCon",
+				"Assets\\Scripts\\Game\\GameConstants.cs"
+			],
+			[
+				"PlayeCon",
+				"Assets\\Scripts\\Game\\Player\\PlayerController.cs"
+			],
+			[
+				"PlayerHurt",
+				"Assets\\Shaders\\Post\\PlayerHurt.shader"
+			],
+			[
+				"SerDictionary",
+				"Assets\\Scripts\\LWG\\Utilities\\SerDictionaryAttribute.cs"
+			],
+			[
+				"Arbi",
+				"Assets\\Scripts\\Game\\Effects\\Post\\ArbitraryTimedScreenEffect.cs"
+			],
+			[
+				"GameController",
+				"Assets\\Scripts\\Game\\GameController\\GameController.cs"
+			],
+			[
+				"Gamescreen",
+				"Assets\\Scripts\\Game\\GameController\\GameScreenEffects.cs"
+			],
+			[
+				"Arbit",
+				"Assets\\Scripts\\Game\\Effects\\Post\\ArbitraryTimedScreenEffect.cs"
+			],
+			[
+				"FlickerOn",
+				"Assets\\Scripts\\Game\\FlickerOnDamage.cs"
+			],
+			[
+				"PixelateCam",
+				"Assets\\Scripts\\Game\\Effects\\Post\\PixelateCamera.cs"
+			],
+			[
+				"PixelPerfect",
+				"Assets\\PixelPerfectCamera\\Scripts\\PixelPerfectCamera.cs"
+			],
+			[
+				"PixelPer",
+				"Assets\\PixelPerfectCamera\\Scripts\\PixelPerfectCamera.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rename",
+				"PlayerEnchantments"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

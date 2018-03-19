@@ -1,0 +1,1997 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"project",
+				"project_name"
+			],
+			[
+				"projec",
+				"project_name"
+			],
+			[
+				"homo",
+				"homozygous_recessive\t(gene_metadata.cpp)"
+			],
+			[
+				"gene",
+				"gene"
+			],
+			[
+				"new",
+				"new_second"
+			],
+			[
+				"gen1",
+				"gene1_pair"
+			],
+			[
+				"allele",
+				"allele::dominant"
+			],
+			[
+				"allal",
+				"allele::dominant"
+			],
+			[
+				"gene1",
+				"gene1_pair"
+			],
+			[
+				"get_geno",
+				"get_genotype_string\t(organism.cpp)"
+			],
+			[
+				"get_ge",
+				"get_genotype_string"
+			],
+			[
+				"_meta",
+				"_metadata"
+			],
+			[
+				"_or",
+				"_organism_counts"
+			],
+			[
+				"_",
+				"_organism_counts"
+			],
+			[
+				"increment",
+				"increment_organism_count\t(organism_metadata.hpp)"
+			],
+			[
+				"forea",
+				"foreach_gene_metadata\t(simulation.cpp)"
+			],
+			[
+				"reset",
+				"reset_genotype_counters"
+			],
+			[
+				"_geno",
+				"_genotype_meta"
+			],
+			[
+				"heter",
+				"heterozygous_dominant"
+			],
+			[
+				"geno",
+				"genotype"
+			],
+			[
+				"rec",
+				"rec_pheno"
+			],
+			[
+				"get_",
+				"get_dominant_phenotype"
+			],
+			[
+				"get_re",
+				"get_recessive_phenotype"
+			],
+			[
+				"get",
+				"get_recessive_char"
+			],
+			[
+				"get_dom",
+				"get_dominant_phenotype"
+			],
+			[
+				"_a",
+				"_metadata\t(organism.cpp)"
+			],
+			[
+				"size",
+				"size_t\t(simulation.cpp)"
+			],
+			[
+				"ret",
+				"ret_val"
+			],
+			[
+				"parent",
+				"parent_title_1"
+			],
+			[
+				"tran",
+				"transform_gene_metadata\t(organism_metadata.hpp)"
+			],
+			[
+				"print",
+				"print_master_info\t(main.cpp)"
+			],
+			[
+				"_paren",
+				"_parent2"
+			],
+			[
+				"other",
+				"other_gene"
+			],
+			[
+				"_pare",
+				"_parent1"
+			],
+			[
+				"get_ris",
+				"get_first_allele\t(gene.cpp)"
+			],
+			[
+				"all",
+				"allele_pair"
+			],
+			[
+				"parse",
+				"parse_pair\t(gene_metadata.hpp)"
+			],
+			[
+				"find",
+				"find_metadata_for_pair\t(organism_metadata.hpp)"
+			],
+			[
+				"num",
+				"num_trials"
+			],
+			[
+				"_ge",
+				"_genotype_meta"
+			],
+			[
+				"_dom",
+				"_dominant_char"
+			],
+			[
+				"check",
+				"check_character"
+			],
+			[
+				"_rece",
+				"_recessive_char"
+			],
+			[
+				"rece",
+				"_recessive_char"
+			],
+			[
+				"gen",
+				"genotype"
+			],
+			[
+				"met",
+				"_metadata"
+			],
+			[
+				"organism",
+				"organism_metadata\t(simulation.cpp)"
+			],
+			[
+				"organi",
+				"organism_metadata\t(organism_metadata.hpp)"
+			],
+			[
+				"_gen",
+				"_genotype_meta\t(organism_metadata.hpp)"
+			],
+			[
+				"organis",
+				"organism_metadata"
+			],
+			[
+				"dom_",
+				"dom_char"
+			],
+			[
+				"_domin",
+				"_dominant_char"
+			],
+			[
+				"sci",
+				"sci_name"
+			],
+			[
+				"getGene",
+				"getGeneCount"
+			],
+			[
+				"orga",
+				"organism_metadata"
+			],
+			[
+				"get_rece",
+				"get_recessive_char"
+			],
+			[
+				"run",
+				"run_simulation\t(simulation.hpp)"
+			],
+			[
+				"org",
+				"organism\t(GeneticsSimDataParser.hpp)"
+			],
+			[
+				"SetF",
+				"SetFallthroughOneWay\t(AMPDefault.cs)"
+			],
+			[
+				"expec",
+				"expectedHitboxPosition"
+			],
+			[
+				"exp",
+				"expectedHitboxPosition"
+			],
+			[
+				"Unadj",
+				"UnadjustedDamage"
+			],
+			[
+				"Unadju",
+				"UnadjustedMaxHealth"
+			],
+			[
+				"CombatStat",
+				"CombatStatsPackage"
+			],
+			[
+				"Asset",
+				"AssetDatabase"
+			],
+			[
+				"atk_test",
+				"atk_testTimeProportion.asset"
+			],
+			[
+				"position",
+				"positions"
+			],
+			[
+				"Asse",
+				"AssetDatabase"
+			],
+			[
+				"MonoB",
+				"MonoBehaviourTest\t(TestAttacksWork.cs)"
+			],
+			[
+				"attackSpeed",
+				"attackSpeedOffset"
+			],
+			[
+				"un",
+				"unadjAttackSpeed"
+			],
+			[
+				"rangeM",
+				"rangeMaxScale\t(CombatStatsPackage.cs)"
+			],
+			[
+				"stats",
+				"statsAsset"
+			],
+			[
+				"CombatStats",
+				"CombatStatsPackage\t(CombatStats.cs)"
+			],
+			[
+				"Advance",
+				"AdvanceAllHitboxes\t(AttackController.cs)"
+			],
+			[
+				"time",
+				"timeProportion"
+			],
+			[
+				"UpdateGma",
+				"UpdateGameObjectPositions"
+			],
+			[
+				"INVA",
+				"SELECTION_INVALID"
+			],
+			[
+				"hitbox",
+				"hitboxSelection"
+			],
+			[
+				"exe",
+				"executionTime"
+			],
+			[
+				"TIME",
+				"TIME_PROPORTION"
+			],
+			[
+				"Time",
+				"TIME_PROPORTION"
+			],
+			[
+				"Require",
+				"RequireComponent\t(AttackController.cs)"
+			],
+			[
+				"ICombat",
+				"ICombatStats\t(CombatStats.cs)"
+			],
+			[
+				"Physical",
+				"PhysicalProperties"
+			],
+			[
+				"CombatS",
+				"CombatStatsPackage"
+			],
+			[
+				"asset",
+				"assetPath"
+			],
+			[
+				"physicalP",
+				"PhysicalPropertyLibrary"
+			],
+			[
+				"CombatSt",
+				"combatStats"
+			],
+			[
+				"actor",
+				"actorMovementProperties"
+			],
+			[
+				"Actor",
+				"ActorAssetCreatorWindow"
+			],
+			[
+				"Physca",
+				"PhysicalPropertyDict"
+			],
+			[
+				"Controll",
+				"Controller2D\t(ActorMovement.cs)"
+			],
+			[
+				"Re",
+				"RequireComponent"
+			],
+			[
+				"default",
+				"defaultProperties\t(Controller2D.cs)"
+			],
+			[
+				"Contre",
+				"Controller2D"
+			],
+			[
+				"facing",
+				"facingRight"
+			],
+			[
+				"ActorMove",
+				"ActorMovement"
+			],
+			[
+				"knockback",
+				"knockback_multiplier"
+			],
+			[
+				"SetPre",
+				"SetPreferredXY\t(Controller2D.cs)"
+			],
+			[
+				"Serialie",
+				"SerializeField\t(ActorMovement.cs)"
+			],
+			[
+				"PhysicalP",
+				"PhysicalPropertyDict"
+			],
+			[
+				"Seria",
+				"SerializeField\t(Controller2D.cs)"
+			],
+			[
+				"Contro",
+				"Controller2D"
+			],
+			[
+				"Vector3Int",
+				"Vector3IntList"
+			],
+			[
+				"ChunkExis",
+				"ChunkExitsDrawer"
+			],
+			[
+				"label",
+				"labelSpace"
+			],
+			[
+				"tiny",
+				"tinyButtonWidth"
+			],
+			[
+				"EditorGU",
+				"EditorGUIUtility"
+			],
+			[
+				"SerDi",
+				"SerDictionaryDrawer\t(SerDictionaryDrawer.cs)"
+			],
+			[
+				"Enchantmen",
+				"EnchantmentBox"
+			],
+			[
+				"ClearAll",
+				"ClearAllEffects"
+			],
+			[
+				"EnchE",
+				"EnchEffectStorage"
+			],
+			[
+				"Serialize",
+				"SerializeField\t(PlayerController.cs)"
+			],
+			[
+				"Combatstat",
+				"CombatStatsPackage"
+			],
+			[
+				"Combat",
+				"CombatStats"
+			],
+			[
+				"currentAttack",
+				"currentAttackController"
+			],
+			[
+				"currentAt",
+				"currentAttackController"
+			],
+			[
+				"curso",
+				"cursorIndex"
+			],
+			[
+				"needs",
+				"needsTextRefocus"
+			],
+			[
+				"Hitbox",
+				"HitboxPosition"
+			],
+			[
+				"control",
+				"controlType"
+			],
+			[
+				"attack",
+				"attackLib"
+			],
+			[
+				"local",
+				"localScale\tVector3 { get; set; }"
+			],
+			[
+				"CreateHitbox",
+				"CreateHitboxPositionGobj"
+			],
+			[
+				"UpdateGame",
+				"UpdateGameObjectColor"
+			],
+			[
+				"DrawGizmo",
+				"DrawGizmoSphereOn"
+			],
+			[
+				"Clear",
+				"ClearGameObjects()\tvoid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/gene.cpp",
+			"settings":
+			{
+				"buffer_size": 3386,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/gene_metadata.cpp",
+			"settings":
+			{
+				"buffer_size": 3106,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism.hpp",
+			"settings":
+			{
+				"buffer_size": 1951,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism.cpp",
+			"settings":
+			{
+				"buffer_size": 4364,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/organism_metadata.hpp",
+			"settings":
+			{
+				"buffer_size": 1457,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "project1_307 (Windows)",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"project1_307 (Windows)",
+					""
+				],
+				[
+					"project1_307 (Windows)",
+					"rebuild_cache"
+				],
+				[
+					"project1_307 (Windows)",
+					"src/rebuild_cache"
+				],
+				[
+					"project1_307 (Windows)",
+					"project1.exe"
+				],
+				[
+					"project1_307 (Windows)",
+					"src/all"
+				],
+				[
+					"project1_307 (Windows)",
+					"all"
+				],
+				[
+					"project1_307 (Windows)",
+					"clean"
+				]
+			],
+			[
+				"project1_307 (Windows)",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"filehea",
+				"FileHeader: Add Header"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Cmake clear",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"linter: show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"preferences",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"preference",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"settings",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"Clear",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"nre",
+				"File: New File Relative to Current View"
+			],
+			[
+				"Cmake: write",
+				"CMakeBuilder: Write Build Targets to Sublime Project File"
+			],
+			[
+				"Cmake",
+				"CMakeBuilder: Diagnose (What Should I Do?)"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Syntax: C",
+				"Set Syntax: C"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Paclage",
+				"Package Control: List Packages"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"shader",
+				"Set Syntax: Unity ShaderLab"
+			],
+			[
+				"Disco",
+				"Discord Rich Presence: Disconnect"
+			],
+			[
+				"Discord",
+				"Discord Rich Presence: Connect to Discord"
+			],
+			[
+				"Omni",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"newnew",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"tex",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"rust",
+				"Set Syntax: Rust"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"text pastry from",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"deleete",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 553.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/lib",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/simulation.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/main.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/gene_metadata.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/gene.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/GeneticsSimDataParser.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/GeneticsSimDataParser.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/CMakeLists.txt",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/gene.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/allele.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/gene_metadata.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/organism_metadata.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/organism.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/organism.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/organism_metadata.cpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/genotype.hpp",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/simulation.hpp",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/header/C#.tmpl",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/project1_307.sublime-project",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/header/C++.tmpl",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/FileHeader/FileHeader.py",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/header/ActionScript.tmpl",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/C++.tmpl",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/lib/data.xml",
+		"/C/Users/Clark/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/CMakeLists.txt",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/build/cmake_install.cmake",
+		"/C/Users/Clark/Documents/Programming/School/CS307/project1/src/testclass.h",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/AMPPlayer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Controller2D.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/Attack.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/ActorMovement.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/AMPDefault.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Tests/Playmode/AttacksCycleSuccessfully/TestDriverAttacksCycleSuccessfully.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Player/PlayerController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/CombatStats.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/CombatStatsPackage.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Windows/ActorAssetCreatorWindow.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/AttackController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/CombatController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/Hitbox.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/AttackLibrary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/CombatStatsDummy.cs",
+		"/C/Users/Clark/Desktop/klifton notes",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Tests/Playmode/AttacksCycleSuccessfully/TestAttacksCompleteSuccessfully.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/HitboxPosition.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Tests/Playmode/AttacksCycleSuccessfully/TestAttacksCycleSuccessfully.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Tests/TESTAttacksCompleteSuccessfully/TestAttacksCompleteSuccessfully.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Tests/Enchantments/EnchantmentBasicTests.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Tests/CombatLibrary/WhatTheFuckIsThis.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Tests/CombatLibrary/TESTAttacksCompleteSuccessfully/TestDriverAttacksWork.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Tests/Playmode/AttacksCycleSuccessfully/TestPlayModeThings.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Tests/CombatLibrary/TESTAttacksCompleteSuccessfully/TestPlayModeThings.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Tests/CombatLibrary/TestCombatStatsPackage.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Tests/CombatLibrary/TESTAttacksCompleteSuccessfully/TestAttacksWork.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/Editor/TestCombatStatsPackage.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/.gitignore",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/ICombatStats.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/LWG/Utilities/EditorUtilities.cs",
+		"/C/Users/Clark/Documents/gitignore_global.txt",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/.gitmodules",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/etc/unity_asm_viewer/.gitignore",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Windows/CombatControllerWindow.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Windows/GameObjectEditorWindow.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enchantments/EnchantmentBox.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/AttackControllers/AttackController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/GameConstants.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enchantments/EnchantmentHolder.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enchantments/EnchInterfaces/IEnch.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enchantments/Implementations/EnchAoeOnJump.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/AttackControllers/TimedAttackController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/ProcGen/DungeonGenerator.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enchantments/EnchantmentSpawner.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enchantments/Enchantments.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enchantments/Implementations/EnchBuffOnRoll.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enemies/Burb/BurbController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/AttackReceiver.cs",
+		"/C/Users/Clark/AppData/Local/Temp/README.txt",
+		"/C/Users/Clark/Documents/Programming/School/CS545/project1/README.txt",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/PixRender/TestTextureStaple.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/PixRender/TestQuadRender.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/RenderTextures/TextureBlend.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/PixRender/RenderStagingGrid.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/PixelPerfectCamera/Scripts/PixelSnap.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/PixRender/RenderTextureSpriteDriver.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/PixRender/PixRenderHandle.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/RenderTextures/AlphaBlended1.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/RenderTextureSpriteDriver.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Shaders/AlphaBlended1.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/.gitattributes",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Shaders/UVDistortion.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/PhysicalProperties.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/PhysicalPropertyLibrary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Windows/ChunkLoaderWindow.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Shaders/TestQuantize.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Shaders/FinalTutorial.shader",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Shaders/njdwklandjw.shader",
+		"/C/Users/Clark/AppData/LocalLow/DefaultCompany/mini_clungeons/ProcLogs.txt",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/ProcGen/Room.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/ProcGen/Node.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Editors/ChunkMetadataEditor.cs",
+		"/C/Users/Clark/Desktop/mergespecfile.txt",
+		"/C/Program Files/Unity/Editor/Data/Tools/mergespecfile.txt",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/ProcGen/ChunkMetadata.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/pseudocode/ProcGen/dungeon_generator.py",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Player/PlayerController_DashStates.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enemies/SpearDude/SpearDudeController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enemies/Scrub/ScrubController.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Drawers/InputForgiverDrawer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Editors/CombatControllerEditor.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Rewired/Internal/Scripts/DataStorage/UserDataStore_PlayerPrefs.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/JumpProperties.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Drawers/SerDictionaryDrawerImplementations.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/ActorMovementProperties.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/physicalPropsToImplement.txt",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Player/PlayerController_MoveStates.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Player/PlayerController_AirStates.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Player/PlayerController_AttackStates.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enemies/SpearDude/SpearDudeMovement.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enemies/EnemyMovement.cs",
+		"/C/Users/Clark/AppData/Local/Temp/tmp2A8D.tmp.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enemies/Scrub/ScrubMovement.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/AMPPlayer.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/LWG/Utilities/SerDictionary.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Player/PlayerMovement.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/Enemies/Burb/BurbMovement.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/CombatLibrary/HitInfo.cs",
+		"/C/Users/Clark/Documents/Programming/Projects/main_game/Assets/Scripts/Game/RaycastController.cs"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_create_table",
+			"get_project_name",
+			"file_name",
+			"project_name",
+			"filename",
+			"file_name",
+			"project_name",
+			"author",
+			"create_time",
+			"project_name",
+			"author",
+			"Dwarf",
+			"_genes",
+			"dominant",
+			"homozygous_dominant",
+			"a",
+			"organism",
+			"first",
+			"_geno",
+			"unordered_map",
+			"unorderd_map",
+			"gene_metadata::",
+			"new_second",
+			"new_first",
+			"recessive",
+			"dominant",
+			"case",
+			"int",
+			"map",
+			"allele_pair",
+			"gene1_pair",
+			"gene1._geno",
+			"gene_metadata::",
+			"gene2_pair",
+			"gene1_pair",
+			"gene2",
+			"gene1",
+			"gene1_pair",
+			"_second",
+			"_first",
+			"dominant",
+			"recessive",
+			"gene1_pair",
+			"case gene_metadata::genotype::homozygous_recessive:",
+			"case",
+			"switch",
+			"allele",
+			"_genes",
+			"get_genotype_string",
+			"get_metadata",
+			"a",
+			"get_genotype_string",
+			"\"======================= ",
+			"=======================\"",
+			"_geno",
+			"_second",
+			"_first",
+			"other",
+			"T",
+			"_organism_counts",
+			"get_genus",
+			"organism",
+			"allele",
+			"kvp",
+			"get_metadata",
+			"get_alleles",
+			"k",
+			"allele",
+			"organism_metadata",
+			"organism",
+			"_metadata",
+			"get_metadata",
+			"string",
+			"organism",
+			"k",
+			"Key",
+			"hash",
+			"Key",
+			"os",
+			"get_genotype_count",
+			"gene",
+			"kvp.second",
+			"kvp.first->",
+			"kvp",
+			"reset",
+			"reset_genotype_counters",
+			"heterozygous_dominant",
+			"reset_genotype_counters",
+			"heterozygous_dominant",
+			"homozygous_dominant",
+			"_geno",
+			"gene",
+			"dom_char",
+			"get_comphenotype",
+			"get_recessive_phenotype",
+			"get_dominant_phenotype",
+			"dom_char",
+			"rec_char",
+			"dom_char",
+			"homozygous",
+			"get_dominant_char",
+			"first",
+			"kvp",
+			"_genotype_meta",
+			"foreach_gene",
+			"foreach_gene_kvp",
+			"gene",
+			"func",
+			"heterozygous_dominant",
+			"get_genotype",
+			"_total_genotypes",
+			"homozygous_dominant",
+			"get_genotype",
+			"children",
+			"_children",
+			"ret_val",
+			"gene",
+			"dominant",
+			"recessive",
+			"get_first_allele",
+			"_sci_name",
+			"parent_title_1",
+			"1",
+			"format_print",
+			"transform_gene_metadata",
+			"foreach_gene_metadata",
+			"transform_gene_metadata",
+			"void"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"get_genotype_string"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/gene.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2794,
+								2794
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/gene_metadata.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3106,
+								3106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1392.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/organism.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/organism.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3720,
+								3720
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1488.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "src/organism_metadata.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/gene.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 427.0
+	},
+	"output.exec":
+	{
+		"height": 285.0
+	},
+	"output.files_to_be_deleted":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 202.0
+	},
+	"pinned_build_system": "project1_307 (Windows)",
+	"project": "project1_307.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gene",
+				"src\\gene.cpp"
+			],
+			[
+				"organism",
+				"src\\organism_metadata.hpp"
+			],
+			[
+				"orga",
+				"src\\organism.cpp"
+			],
+			[
+				"gene_meta",
+				"src\\gene_metadata.cpp"
+			],
+			[
+				"simulation",
+				"src\\simulation.cpp"
+			],
+			[
+				"main",
+				"src\\main.cpp"
+			],
+			[
+				"allele",
+				"src\\allele.hpp"
+			],
+			[
+				"simultaion",
+				"src\\simulation.cpp"
+			],
+			[
+				"genotype",
+				"src\\genotype.hpp"
+			],
+			[
+				"gene.cpp",
+				"src\\gene.cpp"
+			],
+			[
+				"Cmake",
+				"src\\CMakeLists.txt"
+			],
+			[
+				"all",
+				"src\\allele.hpp"
+			],
+			[
+				"project",
+				"project1_307.sublime-project"
+			],
+			[
+				"proj",
+				"project1_307.sublime-project"
+			],
+			[
+				"data",
+				"lib\\data.xml"
+			],
+			[
+				"or",
+				"src\\organism.cpp"
+			],
+			[
+				"sim",
+				"src\\simulation.cpp"
+			],
+			[
+				"simul",
+				"src\\simulation.hpp"
+			],
+			[
+				"pro",
+				"project1_307.sublime-project"
+			],
+			[
+				"simu",
+				"src\\simulation.cpp"
+			],
+			[
+				"geno",
+				"src\\genotype.hpp"
+			],
+			[
+				"organi",
+				"src\\organism.hpp"
+			],
+			[
+				"organis",
+				"src\\organism.hpp"
+			],
+			[
+				"siu",
+				"src\\simulation.hpp"
+			],
+			[
+				"orni",
+				"src\\organism_metadata.cpp"
+			],
+			[
+				"meta",
+				"src\\gene_metadata.hpp"
+			],
+			[
+				"org",
+				"src\\organism.hpp"
+			],
+			[
+				"simult",
+				"src\\simulation.cpp"
+			],
+			[
+				"simulat",
+				"src\\simulation.cpp"
+			],
+			[
+				"simulatio",
+				"src\\simulation.cpp"
+			],
+			[
+				"orta",
+				"src\\organism_metadata.hpp"
+			],
+			[
+				"organim",
+				"src\\organism_metadata.cpp"
+			],
+			[
+				"",
+				"src\\organism.cpp"
+			],
+			[
+				"orag",
+				"src\\organism.cpp"
+			],
+			[
+				"siml",
+				"src\\simulation.cpp"
+			],
+			[
+				"simulatin",
+				"src\\simulation.cpp"
+			],
+			[
+				"oragn",
+				"src\\organism.cpp"
+			],
+			[
+				"metada",
+				"src\\organism_metadata.cpp"
+			],
+			[
+				"orgains",
+				"src\\organism.cpp"
+			],
+			[
+				"min",
+				"src\\main.cpp"
+			],
+			[
+				"gne",
+				"src\\gene.cpp"
+			],
+			[
+				"geneMeta",
+				"src\\gene_metadata.hpp"
+			],
+			[
+				"gen",
+				"src\\GeneticsSimDataParser.hpp"
+			],
+			[
+				"gener",
+				"src\\GeneticsSimDataParser.cpp"
+			],
+			[
+				"simlu",
+				"src\\simulation.cpp"
+			],
+			[
+				"organism_meta",
+				"src\\organism_metadata.hpp"
+			],
+			[
+				"Genetic",
+				"src\\GeneticsSimDataParser.hpp"
+			],
+			[
+				"Gen",
+				"src\\GeneticsSimDataParser.cpp"
+			],
+			[
+				"genetic",
+				"src\\GeneticsSimDataParser.hpp"
+			],
+			[
+				"Sim",
+				"src\\simulation.cpp"
+			],
+			[
+				"Main",
+				"src\\main.cpp"
+			],
+			[
+				"src",
+				"src\\testclass.h"
+			],
+			[
+				"CMake",
+				"CMakeLists.txt"
+			],
+			[
+				"Contro",
+				"Assets\\Scripts\\Game\\Controller2D.cs"
+			],
+			[
+				"AMP",
+				"Assets\\Scripts\\Game\\AMPDefault.cs"
+			],
+			[
+				"Controller",
+				"Assets\\Scripts\\Game\\Controller2D.cs"
+			],
+			[
+				"Cont",
+				"Assets\\Scripts\\Game\\Controller2D.cs"
+			],
+			[
+				"AMPDe",
+				"Assets\\Scripts\\Game\\AMPDefault.cs"
+			],
+			[
+				"AmpPl",
+				"Assets\\Scripts\\Game\\AMPPlayer.cs"
+			],
+			[
+				"Con",
+				"Assets\\Scripts\\Game\\Controller2D.cs"
+			],
+			[
+				"AMPde",
+				"Assets\\Scripts\\Game\\AMPDefault.cs"
+			],
+			[
+				"ActorMove",
+				"Assets\\Scripts\\Game\\ActorMovement.cs"
+			],
+			[
+				"Attack",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Attack.cs"
+			],
+			[
+				"Atta",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Attack.cs"
+			],
+			[
+				"AttackCon",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackController.cs"
+			],
+			[
+				"hitbox",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Hitbox.cs"
+			],
+			[
+				"test",
+				"Assets\\Tests\\Playmode\\AttacksCycleSuccessfully\\TestDriverAttacksCycleSuccessfully.cs"
+			],
+			[
+				"Test",
+				"Assets\\Tests\\Playmode\\AttacksCycleSuccessfully\\TestDriverAttacksCycleSuccessfully.cs"
+			],
+			[
+				"CombatStats",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStats.cs"
+			],
+			[
+				"CombatStatspc",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsPackage.cs"
+			],
+			[
+				"COmbatStats",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsDummy.cs"
+			],
+			[
+				"CombatStatsPackage",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsPackage.cs"
+			],
+			[
+				"AttackLib",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackLibrary.cs"
+			],
+			[
+				"Combat",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatController.cs"
+			],
+			[
+				"Actor",
+				"Assets\\Editor\\Windows\\ActorAssetCreatorWindow.cs"
+			],
+			[
+				"CombatCon",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatController.cs"
+			],
+			[
+				"HItbox",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitboxPosition.cs"
+			],
+			[
+				"Hitbox",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitboxPosition.cs"
+			],
+			[
+				"TestAttac",
+				"Assets\\Tests\\Playmode\\AttacksCycleSuccessfully\\TestDriverAttacksCycleSuccessfully.cs"
+			],
+			[
+				"testA",
+				"Assets\\Tests\\Playmode\\AttacksCycleSuccessfully\\TestAttacksCycleSuccessfully.cs"
+			],
+			[
+				"TestAttacks",
+				"Assets\\Tests\\Playmode\\AttacksCycleSuccessfully\\TestAttacksCompleteSuccessfully.cs"
+			],
+			[
+				"TestDr",
+				"Assets\\Tests\\Playmode\\AttacksCycleSuccessfully\\TestDriverAttacksCycleSuccessfully.cs"
+			],
+			[
+				"TestDriver",
+				"Assets\\Tests\\Playmode\\AttacksCycleSuccessfully\\TestDriverAttacksCycleSuccessfully.cs"
+			],
+			[
+				"TestAtta",
+				"Assets\\Editor\\Tests\\CombatLibrary\\TESTAttacksCompleteSuccessfully\\TestAttacksWork.cs"
+			],
+			[
+				"EnchantmenBas",
+				"Assets\\Editor\\Tests\\Enchantments\\EnchantmentBasicTests.cs"
+			],
+			[
+				"TestCom",
+				"Assets\\Editor\\Tests\\CombatLibrary\\TestCombatStatsPackage.cs"
+			],
+			[
+				"TestC",
+				"Assets\\Tests\\TESTAttacksCompleteSuccessfully\\TestAttacksCompleteSuccessfully.cs"
+			],
+			[
+				"gitignore",
+				"etc\\unity_asm_viewer\\.gitignore"
+			],
+			[
+				"git",
+				".gitmodules"
+			],
+			[
+				"CombatStatsPac",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsPackage.cs"
+			],
+			[
+				"TestCombatStats",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Editor\\TestCombatStatsPackage.cs"
+			],
+			[
+				"CombAtStats",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStats.cs"
+			],
+			[
+				"Icombat",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ICombatStats.cs"
+			],
+			[
+				"CombatS",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStats.cs"
+			],
+			[
+				"Combatstats",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStats.cs"
+			],
+			[
+				"Combatcon",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatController.cs"
+			],
+			[
+				"Sombatstats",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsDummy.cs"
+			],
+			[
+				"CombatStas",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStats.cs"
+			],
+			[
+				"ICom",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ICombatStats.cs"
+			],
+			[
+				"ICombat",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ICombatStats.cs"
+			],
+			[
+				"Dummy",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsDummy.cs"
+			],
+			[
+				"CombatCn",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatController.cs"
+			],
+			[
+				"Comba",
+				"Assets\\Editor\\Windows\\CombatControllerWindow.cs"
+			],
+			[
+				"HitboxPo",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitboxPosition.cs"
+			],
+			[
+				"hit",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Hitbox.cs"
+			],
+			[
+				"HitboxPosition",
+				"Assets\\Scripts\\Game\\CombatLibrary\\HitboxPosition.cs"
+			],
+			[
+				"hibo",
+				"Assets\\Scripts\\Game\\CombatLibrary\\Hitbox.cs"
+			],
+			[
+				"AttackCOn",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackController.cs"
+			],
+			[
+				"IComb",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ICombatStats.cs"
+			],
+			[
+				"Aoe",
+				"Assets\\Scripts\\Game\\Enchantments\\Implementations\\EnchAoeOnJump.cs"
+			],
+			[
+				"EnchAoe",
+				"Assets\\Scripts\\Game\\Enchantments\\Implementations\\EnchAoeOnJump.cs"
+			],
+			[
+				"CombatStatsDumm",
+				"Assets\\Scripts\\Game\\CombatLibrary\\CombatStatsDummy.cs"
+			],
+			[
+				"IEnch",
+				"Assets\\Scripts\\Game\\Enchantments\\EnchInterfaces\\IEnch.cs"
+			],
+			[
+				"ICombatStats",
+				"Assets\\Scripts\\Game\\CombatLibrary\\ICombatStats.cs"
+			],
+			[
+				"EnchantmentBo",
+				"Assets\\Scripts\\Game\\Enchantments\\EnchantmentBox.cs"
+			],
+			[
+				"Enchantments",
+				"Assets\\Scripts\\Game\\Enchantments\\Enchantments.cs"
+			],
+			[
+				"Enchantmnt",
+				"Assets\\Scripts\\Game\\Enchantments\\EnchantmentSpawner.cs"
+			],
+			[
+				"GameConst",
+				"Assets\\Scripts\\Game\\GameConstants.cs"
+			],
+			[
+				"Clark",
+				"Assets\\Scripts\\Game\\CombatLibrary\\AttackReceiver.cs"
+			],
+			[
+				"PixelSn",
+				"Assets\\PixelPerfectCamera\\Scripts\\PixelSnap.cs"
+			],
+			[
+				"TestQuad",
+				"Assets\\Scripts\\Game\\PixRender\\TestQuadRender.cs"
+			],
+			[
+				"TestTex",
+				"Assets\\Scripts\\Game\\PixRender\\TestTextureStaple.cs"
+			],
+			[
+				"Render",
+				"Assets\\Scripts\\Game\\PixRender\\RenderTextureSpriteDriver.cs"
+			],
+			[
+				"PixRender",
+				"Assets\\Scripts\\Game\\PixRender\\PixRenderHandle.cs"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"gitmod",
+				".gitmodules"
+			],
+			[
+				"ActorAsset",
+				"Assets\\Editor\\Windows\\ActorAssetCreatorWindow.cs"
+			],
+			[
+				"ActorMOve",
+				"Assets\\Scripts\\Game\\ActorMovement.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rename",
+				"PlayerEnchantments"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
